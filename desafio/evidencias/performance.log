@@ -1,0 +1,9 @@
+wrk -d 10 -c 10 -t 2 --timeout 15 "http://127.0.0.1:8888/card/201264"
+Running 10s test @ http://127.0.0.1:8888/card/201264
+  2 threads and 10 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     4.94ms    2.26ms  26.16ms   78.44%
+    Req/Sec     1.03k   174.43     1.28k    69.50%
+  20586 requests in 10.01s, 19.97MB read
+Requests/sec:   2057.20
+Transfer/sec:      2.00MB

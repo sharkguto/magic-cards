@@ -1,0 +1,68 @@
+2017-11-23 14:53:36,723 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fc4489bacf8> gustavo-Vostro-3560 at 2017-11-23 14:53:36.720903
+2017-11-23 14:53:36,723 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fc4489bacf8> gustavo-Vostro-3560 at 2017-11-23 14:53:36.720903
+2017-11-23 15:17:40,321 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f83eefa0ba8> gustavo-Vostro-3560 at 2017-11-23 15:17:40.316458
+2017-11-23 15:17:40,322 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f83eefa0ba8> gustavo-Vostro-3560 at 2017-11-23 15:17:40.317936
+2017-11-23 15:18:14,658 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f67042f8ba8> gustavo-Vostro-3560 at 2017-11-23 15:18:14.652929
+2017-11-23 15:18:14,662 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f67042f8ba8> gustavo-Vostro-3560 at 2017-11-23 15:18:14.659276
+2017-11-23 15:18:38,363 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f48d615eba8> gustavo-Vostro-3560 at 2017-11-23 15:18:38.357740
+2017-11-23 15:18:38,366 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f48d615eba8> gustavo-Vostro-3560 at 2017-11-23 15:18:38.363463
+2017-11-23 15:19:06,235 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f4c82ebcbe0> gustavo-Vostro-3560 at 2017-11-23 15:19:06.232861
+2017-11-23 15:19:06,235 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f4c82ebcbe0> gustavo-Vostro-3560 at 2017-11-23 15:19:06.232901
+2017-11-23 15:19:07,552 INFO [guest ('127.0.0.1', 53096)] - URL: ['GET'] http://127.0.0.1:8888/card/1
+2017-11-23 15:19:23,400 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f89c5a2bba8> gustavo-Vostro-3560 at 2017-11-23 15:19:23.397413
+2017-11-23 15:19:23,401 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f89c5a2bba8> gustavo-Vostro-3560 at 2017-11-23 15:19:23.398637
+2017-11-23 15:19:24,755 INFO [guest ('127.0.0.1', 53102)] - URL: ['GET'] http://127.0.0.1:8888/card/1
+2017-11-23 15:19:32,804 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f43167eeba8> gustavo-Vostro-3560 at 2017-11-23 15:19:32.800821
+2017-11-23 15:19:32,804 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f43167eeba8> gustavo-Vostro-3560 at 2017-11-23 15:19:32.801678
+2017-11-23 15:19:34,598 INFO [guest ('127.0.0.1', 53106)] - URL: ['GET'] http://127.0.0.1:8888/card/1
+2017-11-23 15:19:35,358 INFO [guest ('127.0.0.1', 53106)] - URL: ['GET'] http://127.0.0.1:8888/card/1
+2017-11-23 15:40:21,494 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fecf914b940> gustavo-Vostro-3560 at 2017-11-23 15:40:21.493822
+2017-11-23 15:40:21,494 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fecf914b940> gustavo-Vostro-3560 at 2017-11-23 15:40:21.494405
+2017-11-23 15:46:36,019 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fd95f3d3940> gustavo-Vostro-3560 at 2017-11-23 15:46:36.018924
+2017-11-23 15:46:36,019 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fd95f3d3940> gustavo-Vostro-3560 at 2017-11-23 15:46:36.019454
+2017-11-23 15:47:02,973 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f0e2ac8a978> gustavo-Vostro-3560 at 2017-11-23 15:47:02.972995
+2017-11-23 15:47:02,985 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f0e2ac8a978> gustavo-Vostro-3560 at 2017-11-23 15:47:02.984464
+2017-11-23 15:47:57,269 INFO [guest ('127.0.0.1', 53332)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:48:33,225 INFO [guest ('127.0.0.1', 53334)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:48:41,442 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f19ce59e978> gustavo-Vostro-3560 at 2017-11-23 15:48:41.442261
+2017-11-23 15:48:41,442 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f19ce59e978> gustavo-Vostro-3560 at 2017-11-23 15:48:41.441977
+2017-11-23 15:48:55,045 INFO [guest ('127.0.0.1', 53348)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:49:45,398 INFO [guest ('127.0.0.1', 53358)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:55:31,728 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f97ff3cb4e0> gustavo-Vostro-3560 at 2017-11-23 15:55:31.727932
+2017-11-23 15:55:31,728 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f97ff3cb4e0> gustavo-Vostro-3560 at 2017-11-23 15:55:31.727932
+2017-11-23 15:55:35,103 INFO [guest ('127.0.0.1', 53484)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:56:35,101 INFO [guest ('127.0.0.1', 53490)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:59:04,870 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f54161435f8> gustavo-Vostro-3560 at 2017-11-23 15:59:04.870348
+2017-11-23 15:59:04,870 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f54161435f8> gustavo-Vostro-3560 at 2017-11-23 15:59:04.869957
+2017-11-23 15:59:08,763 INFO [guest ('127.0.0.1', 53506)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:59:18,534 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fc37dd8ea58> gustavo-Vostro-3560 at 2017-11-23 15:59:18.534092
+2017-11-23 15:59:18,535 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fc37dd8ea58> gustavo-Vostro-3560 at 2017-11-23 15:59:18.535208
+2017-11-23 15:59:43,637 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f265447e5f8> gustavo-Vostro-3560 at 2017-11-23 15:59:43.636742
+2017-11-23 15:59:43,641 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f265447e5f8> gustavo-Vostro-3560 at 2017-11-23 15:59:43.641368
+2017-11-23 15:59:45,498 INFO [guest ('127.0.0.1', 53530)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:59:46,378 INFO [guest ('127.0.0.1', 53530)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 15:59:46,591 INFO [guest ('127.0.0.1', 53530)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:00:59,980 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f82383c6630> gustavo-Vostro-3560 at 2017-11-23 16:00:59.979689
+2017-11-23 16:00:59,980 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f82383c6630> gustavo-Vostro-3560 at 2017-11-23 16:00:59.979688
+2017-11-23 16:01:16,532 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f86f0e94a90> gustavo-Vostro-3560 at 2017-11-23 16:01:16.531598
+2017-11-23 16:01:16,532 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f86f0e94a90> gustavo-Vostro-3560 at 2017-11-23 16:01:16.532133
+2017-11-23 16:01:18,399 INFO [guest ('127.0.0.1', 53564)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:01:19,246 INFO [guest ('127.0.0.1', 53564)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:02:13,944 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7facf37b55f8> gustavo-Vostro-3560 at 2017-11-23 16:02:13.943305
+2017-11-23 16:02:13,944 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7facf37b55f8> gustavo-Vostro-3560 at 2017-11-23 16:02:13.943314
+2017-11-23 16:02:15,780 INFO [guest ('127.0.0.1', 53578)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:02:16,889 INFO [guest ('127.0.0.1', 53578)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:02:17,119 INFO [guest ('127.0.0.1', 53578)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:02:17,337 INFO [guest ('127.0.0.1', 53578)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:02:17,528 INFO [guest ('127.0.0.1', 53578)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:05:28,151 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fa4803e0b70> gustavo-Vostro-3560 at 2017-11-23 16:05:28.150699
+2017-11-23 16:05:28,156 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fa4803e0b70> gustavo-Vostro-3560 at 2017-11-23 16:05:28.156192
+2017-11-23 16:07:27,064 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f94604ff4a8> gustavo-Vostro-3560 at 2017-11-23 16:07:27.064475
+2017-11-23 16:07:27,065 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f94604ff4a8> gustavo-Vostro-3560 at 2017-11-23 16:07:27.065568
+2017-11-23 16:07:44,735 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f2fa7c1b908> gustavo-Vostro-3560 at 2017-11-23 16:07:44.734853
+2017-11-23 16:07:44,735 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7f2fa7c1b908> gustavo-Vostro-3560 at 2017-11-23 16:07:44.735106
+2017-11-23 16:07:53,284 INFO [guest ('127.0.0.1', 53642)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:08:49,161 INFO [guest ('127.0.0.1', 53646)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
+2017-11-23 16:14:22,466 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fc03f6054e0> gustavo-Vostro-3560 at 2017-11-23 16:14:22.465543
+2017-11-23 16:14:22,466 INFO [sanic 127.0.1.1] - start running <sanic.app.Sanic object at 0x7fc03f6054e0> gustavo-Vostro-3560 at 2017-11-23 16:14:22.466259
+2017-11-23 16:14:25,170 INFO [guest ('127.0.0.1', 53702)] - URL: ['GET'] http://127.0.0.1:8888/movecards/1
