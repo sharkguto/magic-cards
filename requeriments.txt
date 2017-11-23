@@ -1,0 +1,5 @@
+aio-pika
+sanic
+pika
+uvloop
+ujson
