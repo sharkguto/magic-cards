@@ -3,3 +3,4 @@ sanic
 pika
 uvloop
 ujson
+aiomysql

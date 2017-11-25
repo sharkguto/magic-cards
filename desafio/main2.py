@@ -121,7 +121,17 @@ async def rabbit_consumer(queue_name="cards",exchange="cards" ,routing_key="movi
 app = Sanic()
  
 @app.route("/movecards/<expantion_id>",methods=['POST'])
-async def hello(request,expantion_id):
+async def list_cards(request,expantion_id):
+    """
+    route movecards by expantion_id
+    Brings all cards related with expantion_id desired
+    :param request: request object from sanic
+    :type request: dict | bytes
+    :param expantion_id: filter cards by expantion_id from table magiccard 
+    :type expantion_id: int
+
+    :rtype: dict | bytes
+    """
     
     try:
         expantion_id = int(expantion_id)
@@ -167,11 +177,25 @@ async def hello(request,expantion_id):
 
 @app.route("/moveall",methods=['GET'])
 async def moveall(request):
+    """
+    route consume all messages in queue card async
+    :rtype: str
+    """
     asyncio.ensure_future(rabbit_consumer())
-    return response.html("ok",202)
+    return response.html("",202)
 
 @app.route("/card/<card_id>",methods=['GET'])
 async def get_card(request,card_id):
+    """
+    route card by card_id
+    Brings all data from card requested
+    :param request: request object from sanic
+    :type request: dict | bytes
+    :param card_id: filter cards by card_id from a text file 
+    :type card_id: int
+
+    :rtype: dict | bytes
+    """
     
     try:
         card_id = int(card_id)
